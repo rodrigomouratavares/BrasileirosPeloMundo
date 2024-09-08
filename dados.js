@@ -13,7 +13,17 @@ linkComplemento:'https://portal.lygiaclark.org.br/'
     nome: 'Sérgio Rodrigues',
     descricao: ' Sérgio Rodrigues foi um arquiteto e designer brasileiro de renome internacional, reconhecido por sua contribuição significativa para o design de mobiliário no Brasil. Seus móveis, caracterizados por linhas simples, elegantes e funcionais, são considerados verdadeiras obras de arte e representam a essência do modernismo brasileiro. Rodrigues utilizava materiais como madeira maciça e fibras naturais, valorizando a beleza natural das matérias-primas e criando peças atemporais que se encaixam perfeitamente em diversos ambientes. Sua obra, além de ser apreciada por colecionadores e amantes do design, também possui um grande valor histórico e cultural, refletindo a identidade brasileira e a riqueza de nossa cultura.',
     linkComplemento: 'https://sergiorodrigues.com.br/'
-  }
+  },
+  {
+  nome: 'Yuri Diogenes',
+  descricao: 'Mestre em cibersegurança, reconhecido por suas pesquisas e trabalhos na área de segurança da informação.',
+  linkComplemento: 'https://www.novatec.com.br/autores/yuri-diogenes.php' 
+},
+{
+nome: 'alex oliver',
+descricao: 'Nascido em Fortaleza, no dia 14 de novembro de 1971, Alex Oliver é um dos maiores artistas plásticos da atualidade. Seu trabalho com escultura, auxiliado pelo domínio da anatomia, já é reconhecido mundialmente. Para promover seu trabalho, foi preciso viajar até São Paulo e depois à Califórnia, onde foi beta tester de um software após receber um convite da Blizzard.',
+linkComplemento: 'https://www.instagram.com/alexoliverart/'
+}
 ];
 
 
