@@ -5,6 +5,7 @@
 **O que é esse projeto?**
 
 Já se perguntou quem são os brasileiros que estão fazendo sucesso lá fora, mas aqui no Brasil a gente ainda não conhece muito bem?  Esse projeto tem como objetivo te apresentar essas personalidades incríveis, em diversas áreas!
+É fundamental valorizar a diversidade do talento brasileiro e dar visibilidade a esses artistas incríveis cujo gostariam de ser reconhecidos no seu local de origem.
 
 **Como funciona?**
 
