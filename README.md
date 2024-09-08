@@ -1,4 +1,4 @@
-## **README.md Descontraído para o Seu Projeto**
+
 
 ### **Brasileiros pelo Mundo: Descubra Talentos Escondidos!** 🇧🇷
 
